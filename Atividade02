@@ -9,5 +9,5 @@ $subtraçao = $numi - $num2;
 $divisao = $num1 / $num2;
 $multiplicacao = $num1 * $num2;
 $potencia = pow ($num1, $num2) ;
-$raiz = pow$num1, 1/$nue2) ;
+$raiz = pow($num1, 1/$num2) ;
  ?>
